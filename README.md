@@ -192,13 +192,13 @@ The entire training process alongside the relevant evaluations and visualization
 
 ## Screenshots
 
-<h4> 1. This image shows the confusion matrix when the Multinomial Naive Bayes classifier is evaluated on the test dataset.  </h4>
+<h4> 1. This image shows the how the accuracy of the KNN classifier changes when you change the value of k, for both Euclidean and Manhattan distances.  </h4>
 <img src="pic1.png" width="450px"> <br> 
 
-<h4> 2. This image shows the confusion matrix when the Logistic Regression classifier is evaluated on the test dataset. </h4>
+<h4> 2. This image shows the confusion matrix when the KNN classifier is evaluated on the test dataset using the Euclidean Distance and the value of k that produces the highest accuracy (k=3). </h4>
 <img src="pic2.png" width="450px"> <br> 
 
-<h4> 3. This image shows the confusion matrix when the Neural Network classifier is evaluated on the test dataset. </h4>
+<h4> 3. This image shows the confusion matrix when the KNN classifier is evaluated on the test dataset using the Manhattan Distance and the value of k that produces the highest accuracy (k=3). </h4>
 <img src="pic3.png" width="450px">
  <br> 
  
